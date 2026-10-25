@@ -1,0 +1,15 @@
+[
+  {
+    "case_id": "TEST-CASE-889",
+    "predicted_crime": "Physical Assault / Violent Encounter",
+    "predicted_severity": "CRITICAL",
+    "predicted_confidence": 0.94,
+    "verdict": "Confirmed Correct",
+    "corrected_crime": "Physical Assault / Violent Encounter",
+    "investigator": "Test Inspector",
+    "agency": "Cyber Forensics",
+    "confidence_rating": 5,
+    "notes": "Verified assault pattern confirmed by witness",
+    "timestamp": "2026-10-24 20:44:09"
+  }
+]
